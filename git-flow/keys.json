@@ -1,0 +1,3 @@
+{
+  "global": { "cmd-shift-g": "mod.open:git-flow" }
+}
